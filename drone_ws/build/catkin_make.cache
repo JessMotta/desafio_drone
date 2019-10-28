@@ -1,0 +1,2 @@
+drone-vrep
+-DCATKIN_DEVEL_PREFIX=/home/jess/desafio_senai/drone_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jess/desafio_senai/drone_ws/install -G Unix Makefiles

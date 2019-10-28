@@ -1,0 +1,8 @@
+prefix=/home/jess/desafio_senai/drone_ws/install
+
+Name: drone-vrep
+Description: Description of drone-vrep
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jess/desafio_senai/drone_ws/install/lib 
+Requires: 
