@@ -1,5 +1,4 @@
 # desafio_drone
-# quadcopter_aunomous_navigation
 Quadcopter programming by autonomous navigation with V-REP and ROS withou path planning in a random maze.
 
 
