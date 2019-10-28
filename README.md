@@ -11,7 +11,7 @@ Last Update: 10-27-2019
 
 Objectives:
 ==========================================
-    1. Make work the eviroments ROS and V-REP, together 
+    1. Make work the enviroments ROS and V-REP, together 
     2. Make the quadcopter flying in the randon maze avoiding the obstacles
     3. And made the quadcopter find the black box
 
