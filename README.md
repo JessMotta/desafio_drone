@@ -42,7 +42,7 @@ Let us start now:
     5. Start the simulation
     6. Open other terminal and type "rqt" -- this will show you the nodes in ROS
     7. Go back to the first terminal and type "cd src/drone-vrep/scripts/"
-    8. Than type "sudo chmod +x resolver.py"
+    8. Than type "sudo chmod +x teste1.py"
     9. Go back to the folder: drone_ws using command: "cd ../../../"
    10. Than type:"source devel/setup.bash" than type "rosrun drone-vrep resolver.py"
 
